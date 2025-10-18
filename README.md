@@ -1,2 +1,3 @@
 # Take-Notes
-Basit Not Alma Projesi
+Basit bir Python not alma uygulaması.
+Not ekleyebilir, listeleyebilir, silebilir ve düzenleyebilirsiniz.
